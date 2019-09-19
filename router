@@ -1,0 +1,5 @@
+python router.py 1 ubuntu1604-006 13000 13001 &
+python router.py 2 ubuntu1604-006 13000 13002 &
+python router.py 3 ubuntu1604-006 13000 13003 &
+python router.py 4 ubuntu1604-006 13000 13004 &
+python router.py 5 ubuntu1604-006 13000 13005
